@@ -1,6 +1,6 @@
 👋 Hi, I’m Venkata Siva Krishna
 
-👀 I’m currently working for Remitly Inc as a Lead QA Engineer
+👀 I’m currently working for Remitly Inc as a Senior Software QA Engineer
 
 🌱 I’m working on Detox and Javascript to Automate native mobile applications
 
