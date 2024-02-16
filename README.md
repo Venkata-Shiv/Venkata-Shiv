@@ -6,7 +6,6 @@
 
 💬 Ask me about QA process and Methodlogies
 
-📫 How to reach me Venkata.siva2706@gmail.com
 
 **Toolbox**
 
@@ -17,6 +16,11 @@ Version Control: Git GitLab
 Test Management tools: Jira Test Tracker Confulence Scrum
 
 Testing: Appium Cypress Postman 
+
+✨ Fun Facts
+Demon Slayer is my favorite anime.
+As a kid, I wanted to be an astronaut.
+I love using Mac after switching from Linux.
 
 
 **📫 Contact**
