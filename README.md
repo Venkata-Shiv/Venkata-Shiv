@@ -8,6 +8,17 @@
 
 📫 How to reach me Venkata.siva2706@gmail.com
 
+**Toolbox**
+
+Programming languges: Python Javascript
+
+Version Control: Git GitLab 
+
+Test Management tools: Jira Test Tracker Confulence Scrum
+
+Testing: Appium Cypress Postman 
+
+
 Know about my experiences [LinkedIn](https://www.linkedin.com/in/venkata-siva/)
 <!---
 Venkata-Shiv/Venkata-Shiv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
