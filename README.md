@@ -20,7 +20,9 @@ Testing: Appium Cypress Postman
 **✨ Fun Facts**
 
 Cricket and Tennis are my favorite sports.
+
 As a kid, I wanted to be an astronaut.
+
 I love using Mac after switching from Linux.
 
 
